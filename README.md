@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently pursuing b.tech final year
 - 💞️ I’m looking to collaborate on a company where my skills are useful
-- 📫 can ping me on may mail-poojakatha3262gmail.com
+- 📫 can ping me on mail-poojakatha3262gmail.com
 
 <!---
 poojakatha/poojakatha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
